@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\DHNIT-PC\\OneDrive - rootsinternational.edu.pk\\Desktop\\PaymentProcessor\\PaymentProcessor.WebApi\\PaymentProcessor.WebApi.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "PaymentProcessor.WebApi",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
